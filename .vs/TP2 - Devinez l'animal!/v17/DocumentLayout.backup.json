@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My freakin apps YO!\\Unity Projects - school - creation de jeu 2d\\TP2 - Devinez l\u0027animal!\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8D1793-8474-AC94-CC47-AEB8F179A59E}|Assembly-CSharp.csproj|c:\\my freakin apps yo!\\unity projects - school - creation de jeu 2d\\tp2 - devinez l\u0027animal!\\assets\\scripts\\cartemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8D1793-8474-AC94-CC47-AEB8F179A59E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cartemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8D1793-8474-AC94-CC47-AEB8F179A59E}|Assembly-CSharp.csproj|C:\\My freakin apps YO!\\Unity Projects - school - creation de jeu 2d\\TP2 - Devinez l\u0027animal!\\assets\\scripts\\cartememoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8D1793-8474-AC94-CC47-AEB8F179A59E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cartememoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8D1793-8474-AC94-CC47-AEB8F179A59E}|Assembly-CSharp.csproj|C:\\My freakin apps YO!\\Unity Projects - school - creation de jeu 2d\\TP2 - Devinez l\u0027animal!\\assets\\scripts\\boutonjouer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8D1793-8474-AC94-CC47-AEB8F179A59E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boutonjouer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarteManager.cs",
+              "DocumentMoniker": "C:\\My freakin apps YO!\\Unity Projects - school - creation de jeu 2d\\TP2 - Devinez l\u0027animal!\\Assets\\Scripts\\CarteManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarteManager.cs",
+              "ToolTip": "C:\\My freakin apps YO!\\Unity Projects - school - creation de jeu 2d\\TP2 - Devinez l\u0027animal!\\Assets\\Scripts\\CarteManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarteManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwEcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T18:52:59.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarteMemoire.cs",
+              "DocumentMoniker": "C:\\My freakin apps YO!\\Unity Projects - school - creation de jeu 2d\\TP2 - Devinez l\u0027animal!\\Assets\\Scripts\\CarteMemoire.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarteMemoire.cs",
+              "ToolTip": "C:\\My freakin apps YO!\\Unity Projects - school - creation de jeu 2d\\TP2 - Devinez l\u0027animal!\\Assets\\Scripts\\CarteMemoire.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarteMemoire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T18:43:43.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BoutonJouer.cs",
+              "DocumentMoniker": "C:\\My freakin apps YO!\\Unity Projects - school - creation de jeu 2d\\TP2 - Devinez l\u0027animal!\\Assets\\Scripts\\BoutonJouer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BoutonJouer.cs",
+              "ToolTip": "C:\\My freakin apps YO!\\Unity Projects - school - creation de jeu 2d\\TP2 - Devinez l\u0027animal!\\Assets\\Scripts\\BoutonJouer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BoutonJouer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T18:43:32.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
