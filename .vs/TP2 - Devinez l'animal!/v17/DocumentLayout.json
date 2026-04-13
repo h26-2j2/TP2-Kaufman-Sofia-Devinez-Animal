@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\CarteManager.cs",
               "ToolTip": "C:\\My freakin apps YO!\\Unity Projects - school - creation de jeu 2d\\TP2 - Devinez l\u0027animal!\\Assets\\Scripts\\CarteManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\CarteManager.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAQwEcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwBcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T18:52:59.624Z",
               "EditorCaption": ""
@@ -45,9 +45,10 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\CarteMemoire.cs",
               "ToolTip": "C:\\My freakin apps YO!\\Unity Projects - school - creation de jeu 2d\\TP2 - Devinez l\u0027animal!\\Assets\\Scripts\\CarteMemoire.cs",
               "RelativeToolTip": "Assets\\Scripts\\CarteMemoire.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T18:43:43.023Z"
+              "WhenOpened": "2026-04-10T18:43:43.023Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -59,7 +60,8 @@
               "RelativeToolTip": "Assets\\Scripts\\BoutonJouer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T18:43:32.272Z"
+              "WhenOpened": "2026-04-10T18:43:32.272Z",
+              "EditorCaption": ""
             }
           ]
         }
