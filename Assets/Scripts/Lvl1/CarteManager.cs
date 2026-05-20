@@ -1,7 +1,7 @@
 using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
-using UnityEngine.InputSystem;
+
 
 
 public class CarteManager : MonoBehaviour
@@ -60,7 +60,7 @@ public class CarteManager : MonoBehaviour
         {
             if(Time.time > tempsFin + delaiFin)
             {
-                if(Keyboard.current.spaceKey.wasPressedThisFrame)
+                if(Input.GetKeyDown(KeyCode.Space))
                 {
                     Invoke("AllerNiveau2", 2f);
                 }
